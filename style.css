@@ -11,6 +11,7 @@ img {
   width: 300px;
   float: center;
   border-color: rgb(38,87,132);
+  border-style: dashed;
   border-width: 5px;
 }
 navbar {
