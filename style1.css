@@ -10,6 +10,14 @@ img {
   border-width: 5px;
 }
 
+.img2 {
+  width: 449px;
+  border-color: rgb(38,87,132);
+  border-style: dashed;
+  border-width: 5px;
+  float: right;
+}
+
 h4 {
   background-color: rgb(230,245,255);
   color: rgb(38,87,132);
