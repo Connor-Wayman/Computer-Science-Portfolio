@@ -1,1 +1,19 @@
+body{
+  background-color: rgb(217,253,149);
+  color: rgb(95,166,9);
+}
 
+h1 {
+  text-align: center;
+    }
+
+img {
+  width: 300px;
+  border-color: rgb(395,166,9);
+  border-style: dashed;
+  border-width: 5px;
+}
+h4 {
+  background-color: rgb(245,255,180);
+  color: rgb(95,166,9);
+}
