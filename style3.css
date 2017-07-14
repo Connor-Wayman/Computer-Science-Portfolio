@@ -9,7 +9,7 @@ h1 {
 
 img {
   width: 300px;
-  border-color: rgb(395,166,9);
+  border-color: rgb(95,166,9);
   border-style: dashed;
   border-width: 5px;
 }
@@ -23,5 +23,5 @@ th {
 }
 
 table, th, td {
-    border: 1px solid rgb(395,166,9);
+    border: 2px solid rgb(95,166,9);
 }
