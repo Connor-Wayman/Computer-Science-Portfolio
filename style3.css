@@ -17,3 +17,7 @@ h4 {
   background-color: rgb(245,255,180);
   color: rgb(95,166,9);
 }
+
+th {
+    text-align: left;
+}
