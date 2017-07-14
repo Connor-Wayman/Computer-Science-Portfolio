@@ -1,16 +1,16 @@
 body{
   background-color: rgb(255,205,155);
-  color: rgb(216,125,14);
+  color: rgb(216,105,14);
 }
 
 img {
   width: 300px;
-  border-color: rgb(216,125,14);
+  border-color: rgb(216,105,14);
   border-style: dashed;
   border-width: 5px;
 }
 
 h4 {
   background-color: rgb(255,230,205);
-  color: rgb(216,125,14);
+  color: rgb(216,105,14);
 }
